@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=CycleCast
+Exec=qmlscene %U CycleCast/Main.qml
+Icon=CycleCast/CycleCast.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

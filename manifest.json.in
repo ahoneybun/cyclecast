@@ -1,0 +1,16 @@
+{
+    "name": "cyclecast.ahoneybun",
+    "description": "description of CycleCast",
+    "architecture": "@CLICK_ARCH@",
+    "title": "CycleCast",
+    "hooks": {
+        "CycleCast": {
+            "apparmor": "CycleCast/CycleCast.apparmor",
+            "desktop":  "CycleCast/CycleCast.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Aaron Honeycutt <aaronhoneycutt@ubuntu.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
