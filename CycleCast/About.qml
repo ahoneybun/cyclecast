@@ -37,7 +37,7 @@ Page {
         ListItem {
             ListItemLayout {
                 Label {
-                    text: i18n.tr("Technology: " + "OpenWeatherMap")
+                    text: i18n.tr("Backend API: " + "OpenWeatherMap")
                 }
             }
         }

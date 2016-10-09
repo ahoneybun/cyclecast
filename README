@@ -1,0 +1,4 @@
+CycleCast is an Ubuntu Touch/Mobile application that can provide weather forecasting for motorcycle/bike riders.
+
+Ubuntu SDK:
+Custom Executable: /usr/lib/x86_64-linux-gnu/qt5/bin/qmlscene
